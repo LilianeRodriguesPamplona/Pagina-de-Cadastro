@@ -1,7 +1,7 @@
 # 1. Página de Cadastro
 
 <p align="center">
-  <img alt="Imagem do projeto" src=".github/preview.png" width="100%">
+  <img alt="Imagem do projeto" src="/image/preview.png" width="100%">
 </p>
 	
 ## Tecnologias para usar no projeto:
